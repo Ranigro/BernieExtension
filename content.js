@@ -2,7 +2,6 @@
 This is grabbing all of the paragraph elements in the page and changing the bg color
 I want to try to make it possible to access the font size and make it bigger if
 it is too small
-This is to check if name
 */
 console.log("Chrome extension go/");
 let paragraphs = document.getElementsByTagName("p");
