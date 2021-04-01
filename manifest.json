@@ -2,7 +2,7 @@
   "manifest_version" : 2,
 
   "name": "Python Chrome Plugin",
-  "description": "This extension runs Python code.",
+  "description": "Bernie",
   "version": "1.0",
   "content_scripts": [
     {
@@ -14,7 +14,6 @@
   ],
 
   "browser_action": {
-    "default_icon": "icon.png",
     "default_popup": "popup.html"
   },
 
